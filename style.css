@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-color: #80CBC4;
+}
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 25%;
+  padding: 10px;
+}
+
+.image-section{
+    display: flex;
+    justify-content: center;
+}
+.section-style{
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: #E6EE9C;
+    
+}
+.column1 {
+  float: left;
+  width: 25%;
+  padding: 10px;
+}
+
+.image-section1{
+    display: flex;
+    justify-content: center;
+}
+.section-style1{
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: #E6EE9C;
+}
